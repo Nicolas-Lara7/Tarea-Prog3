@@ -7,7 +7,7 @@ El codigo contiene algunos comentarios para facilitar la lectura, especialmente 
 fueron usados por Tensor.cpp.
 
 EJECUCION:
-Para la ejecucion se colocó el CMakeLists y por este medio:
+Para la ejecucion se colocó el CMakeLists y tambien por este medio:
 
 cmake_minimum_required(VERSION 4.3)
 project(Tarea)
